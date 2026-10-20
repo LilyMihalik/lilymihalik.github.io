@@ -66,12 +66,12 @@ img {
     font-size: 4.5vh;
     line-height: 1.3em;
 }
-/* .this_is_lily p.more {
+.this_is_lily p.more {
     font-size: 2.45vh;
-    padding-top: 0px;
+    /* padding-top: 0px;
     border-bottom: 1px solid #3F9FFF;
-    padding-bottom: 8%;
-} */
+    padding-bottom: 8%; */
+}
 .topper a{
     color: #3F9FFF;
     text-decoration: underline;
